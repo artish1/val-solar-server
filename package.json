@@ -1,0 +1,16 @@
+{
+  "name": "cal-solar-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mark Artishuk (https://github.com/artish1)",
+  "license": "ISC",
+  "dependencies": {
+    "@hubspot/api-client": "^3.4.1",
+    "express": "^4.17.1",
+    "dotenv": "^9.0.2"
+  }
+}
