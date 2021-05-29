@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@hubspot/api-client": "^3.4.1",
-    "express": "^4.17.1",
-    "dotenv": "^9.0.2"
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1"
   }
 }
